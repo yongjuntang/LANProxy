@@ -1,0 +1,6 @@
+{
+  "Network": "tcp",
+  "Ip": "127.0.0.1",
+  "RemotePort": 8000,
+  "Heart": 20
+}
